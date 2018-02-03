@@ -1,0 +1,5 @@
+com/gulsah/moviedb/movierecommendationcore/MovieRecommendationCoreApplication.class
+com/gulsah/moviedb/movierecommendationcore/model/TMDBResponse.class
+com/gulsah/moviedb/movierecommendationcore/controller/MovieDBController.class
+com/gulsah/moviedb/movierecommendationcore/model/Genre.class
+com/gulsah/moviedb/movierecommendationcore/model/Movie.class
